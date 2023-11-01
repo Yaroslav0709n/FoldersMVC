@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1iqPlR65P16PhYyJliWVKC94dvoeC7rfEVNYwZjJFAOSJwrBJ+3209d6MOecMkVX2lCGgQoHPZEMkRE8B3Oh6w==",
+  "dgSpecHash": "izB3bDgZDNqObinDXKeDGKSuNOxkD2nWXndWRMRl1iNWOqC+zI6MLbhQW9GgTVN9Y9BtZ+ctMJrZd+UmBBlYiQ==",
   "success": true,
-  "projectFilePath": "D:\\vs2\\FoldersMVC\\Folders\\Folders.Model\\Folders.Model.csproj",
+  "projectFilePath": "D:\\vs2\\Folders-MVC\\Folders\\Folders.Model\\Folders.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -3467,11 +3467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vs2\\FoldersMVC\\Folders\\Folders.Web\\Folders.Web.csproj",
+      "projectUniqueName": "D:\\vs2\\Folders-MVC\\Folders\\Folders.Web\\Folders.Web.csproj",
       "projectName": "Folders.Web",
-      "projectPath": "D:\\vs2\\FoldersMVC\\Folders\\Folders.Web\\Folders.Web.csproj",
+      "projectPath": "D:\\vs2\\Folders-MVC\\Folders\\Folders.Web\\Folders.Web.csproj",
       "packagesPath": "C:\\Users\\Ярослав\\.nuget\\packages\\",
-      "outputPath": "D:\\vs2\\FoldersMVC\\Folders\\Folders.Web\\obj\\",
+      "outputPath": "D:\\vs2\\Folders-MVC\\Folders\\Folders.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3492,8 +3492,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\vs2\\FoldersMVC\\Folders\\Folders.Data\\Folders.Data.csproj": {
-              "projectPath": "D:\\vs2\\FoldersMVC\\Folders\\Folders.Data\\Folders.Data.csproj"
+            "D:\\vs2\\Folders-MVC\\Folders\\Folders.Data\\Folders.Data.csproj": {
+              "projectPath": "D:\\vs2\\Folders-MVC\\Folders\\Folders.Data\\Folders.Data.csproj"
             }
           }
         }

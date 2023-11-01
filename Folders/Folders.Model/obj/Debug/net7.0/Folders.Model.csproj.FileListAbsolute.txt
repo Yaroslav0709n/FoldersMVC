@@ -22,3 +22,15 @@ D:\vs2\FoldersMVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.dll
 D:\vs2\FoldersMVC\Folders\Folders.Model\obj\Debug\net7.0\refint\Folders.Model.dll
 D:\vs2\FoldersMVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.pdb
 D:\vs2\FoldersMVC\Folders\Folders.Model\obj\Debug\net7.0\ref\Folders.Model.dll
+D:\vs2\Folders-MVC\Folders\Folders.Model\bin\Debug\net7.0\Folders.Model.deps.json
+D:\vs2\Folders-MVC\Folders\Folders.Model\bin\Debug\net7.0\Folders.Model.dll
+D:\vs2\Folders-MVC\Folders\Folders.Model\bin\Debug\net7.0\Folders.Model.pdb
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.csproj.AssemblyReference.cache
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.AssemblyInfoInputs.cache
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.AssemblyInfo.cs
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.csproj.CoreCompileInputs.cache
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.dll
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\refint\Folders.Model.dll
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\Folders.Model.pdb
+D:\vs2\Folders-MVC\Folders\Folders.Model\obj\Debug\net7.0\ref\Folders.Model.dll

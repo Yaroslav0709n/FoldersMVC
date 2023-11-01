@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Folders.Web
 build_property.RootNamespace = Folders.Web
-build_property.ProjectDir = D:\vs2\FoldersMVC\Folders\Folders.Web\
+build_property.ProjectDir = D:\vs2\Folders-MVC\Folders\Folders.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\vs2\FoldersMVC\Folders\Folders.Web
+build_property.MSBuildProjectDirectory = D:\vs2\Folders-MVC\Folders\Folders.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/vs2/FoldersMVC/Folders/Folders.Web/Views/Catalog/GetCatalogs.cshtml]
+[D:/vs2/Folders-MVC/Folders/Folders.Web/Views/Catalog/GetCatalogs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xHZXRDYXRhbG9ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs2/FoldersMVC/Folders/Folders.Web/Views/Catalog/Index.cshtml]
+[D:/vs2/Folders-MVC/Folders/Folders.Web/Views/Catalog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs2/FoldersMVC/Folders/Folders.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/vs2/Folders-MVC/Folders/Folders.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs2/FoldersMVC/Folders/Folders.Web/Views/_ViewImports.cshtml]
+[D:/vs2/Folders-MVC/Folders/Folders.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs2/FoldersMVC/Folders/Folders.Web/Views/_ViewStart.cshtml]
+[D:/vs2/Folders-MVC/Folders/Folders.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs2/FoldersMVC/Folders/Folders.Web/Views/Shared/_Layout.cshtml]
+[D:/vs2/Folders-MVC/Folders/Folders.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ct5sf02o82
