@@ -1,0 +1,27 @@
+﻿@model Folders.Web.ViewModels.CatalogViewModel
+
+<div>
+    @if (Model.Catalog == null)
+    {
+        <h1>"Folder" - </h1>
+    }
+    else
+    {
+        <h1>"Folder" - @Model.Catalog.Name</h1>
+    }
+
+    <ul>
+        @foreach (var childCatalog in Model.ChildCatalogs)
+        {
+            <li><a asp-action="GetCatalogs" asp-route-id="@childCatalog.Id">@childCatalog.Name</a></li>
+        }
+    </ul>
+
+    <form asp-action="ImportDirectory" method="post">
+        <div class="form-group">
+            <input type="text" name="path" placeholder="Enter the import path"/><br>
+            <input type="hidden" name="rootId" value="" />
+            <button type="submit" class="btn btn-primary mt-2">Import</button>
+        </div>
+    </form>
+</div>
