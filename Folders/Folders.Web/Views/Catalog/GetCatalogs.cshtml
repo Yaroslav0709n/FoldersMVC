@@ -17,12 +17,4 @@
             <button type="submit" class="btn btn-primary">Import</button>
         </div>
     </form>
-
-    <form asp-action="ExportDirectory" method="post">
-        <div class="form-group">
-            <input type="text" name="path" class="mt-2" placeholder="Enter the export path"/><br>
-            <input type="hidden" name="rootId" value="@Model.Catalog.Id" />
-            <button type="submit" class="btn btn-primary">Upload Catalog</button>
-        </div>
-    </form>
 </div>
